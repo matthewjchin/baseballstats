@@ -39,11 +39,18 @@ slugppl = pd.read_csv("https://raw.githubusercontent.com/chadwickbureau/baseball
 
 sluggers = slugpct.to_numpy()
 
-# Print players from 2012 San Francisco Giants
-for a in sluggers:
-    if a[1] == 2012 and a[3] == 'SFN':
-        # Take Buster Posey's ('poseybu01') stats, 2012 NL MVP
-        if a[0] == 'poseybu01' or a[0] == 'crawfbr01':
-            print(a)
+# # Print players from 2012 San Francisco Giants
+# for a in sluggers:
+#     if a[1] == 2012 and a[3] == 'SFN':
+#         # Take Buster Posey's ('poseybu01') stats, 2012 NL MVP
+#         if a[0] == 'poseybu01' or a[0] == 'crawfbr01':
+#             print(a)
 
 # print(slugpct.yearID == 2012)
+
+# Print Brandon Crawford's stats, 2011-2020 seasons
+for a in sluggers:
+    if a[0] == 'crawfbr01':
+        print(a)
+
+# import csv
