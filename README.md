@@ -1,9 +1,13 @@
-# slugging-stats
+# baseballstats
+
+<h1>Baseball Statistics</h1>
 An analysis on the last 150 years of Major League Baseball and the impact that slugging and hitting percentages of batters are in terms of Sabermetrics and other sports statistics.
 
 The following statistics in the Jupyter notebook titled Slugging.ipynb are: On-Base Percentage (OBP), Slugging Percentage (SLG), and On-base Plus Slugging (OPS) Percentage.
 
-[Brandon Crawford](https://www.mlb.com/player/brandon-crawford-543063), shortstop of the San Francisco Giants, has been used as an example of the slugging statistics that are influential to Sabermetrics, Gold Glove selections, and National League Most Valuable Player voting at season's end. 
+[Brandon Crawford](https://www.mlb.com/player/brandon-crawford-543063), shortstop of the San Francisco Giants, has been used as an example of the slugging statistics that used in Sabermetrics, Gold Glove and All-Star selections as a two-time World Series Champion.
+
+[Hunter Pence](https://www.mlb.com/player/hunter-pence-452254), 14-year MLB veteran right fielder, has also been used as an example of the slugging statistics that are used in individual Sabermetrics examples, also a two-time World Series Champion. 
 
 Inspired by the repository [Basics of Sabermetrics](https://github.com/rberns28/Basics-of-Sabermetrics) by [Ryan Berns](https://github.com/rberns28). 
 

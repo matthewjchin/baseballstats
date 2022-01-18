@@ -3,8 +3,9 @@ Project Ideas
 The following are the ideas that can be added to this project:
 
 1. Predicting if batters with higher BBs were more likely to be finalists/winners of the AL/NL MVP award.
-2. Analysis on how often MVP winners were from non-playoff teams
-3. Is there too much emphasis on games won in terms of Cy Young award winner for each league?
+2. Determining if higher OBP (not OPS) was result of the MVP finalists as they weres
+3. Analysis on how often MVP winners were from non-playoff teams
+4. Is there too much emphasis on games won in terms of Cy Young award winner for each league?
 
 
 
