@@ -29,11 +29,17 @@ Over the course of time, this repository will contain code regarding prediction 
 
 Inspired by the repository [Basics of Sabermetrics](https://github.com/rberns28/Basics-of-Sabermetrics) by [Ryan Berns](https://github.com/rberns28). 
 
+<br>
 
 A forked repository from Berns inspired the creation of this repo, which can be found [here](https://github.com/matthewjchin/Basics-of-Sabermetrics).
 
-Resources:<br>
+<br><br>
+
+<b>Resources:</b>
+<br>
 Any 2021 statistics in these files for the repository have come from [Baseball Reference](https://www.baseball-reference.com/).
+
+References used to both current and former players in this README have been taken from the [official website of Major League Baseball](https://www.mlb.com/).
 
 Additionally, statistics from 1871 to 2020 used across this repository come from the [Baseball Databank](https://github.com/chadwickbureau/baseballdatabank), a resource of historical baseball data provided by the [Chadwick Baseball Bureau](http://www.chadwick-bureau.com/). Their repository of data can be found [here](https://github.com/chadwickbureau).
 
