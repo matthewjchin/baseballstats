@@ -33,7 +33,16 @@ Inspired by the repository [Basics of Sabermetrics](https://github.com/rberns28/
 
 A forked repository from Berns inspired the creation of this repo, which can be found [here](https://github.com/matthewjchin/Basics-of-Sabermetrics).
 
-<br><br>
+<br>
+
+Potential Future Projects:
+
+Predict the stats of players in 2020 season based on data from 2015-2019, had the 2020 season been a full 162-game season. 
+
+Determining if higher OBP (not OPS) was result of the MVP finalists as they were
+
+
+<br>
 
 <b>Resources:</b>
 <br>
