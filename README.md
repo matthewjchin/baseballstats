@@ -12,6 +12,8 @@ The following statistics in the Jupyter notebook titled Slugging.ipynb are: On-B
 Over the course of time, this repository will contain code regarding prediction models, statistical analysis, player profiles, and data visualization of certain key components of Sabermetrics.
 
 <br>
+<h2>Notable Examples</h2>
+<br>
 
 [Buster Posey](https://www.mlb.com/player/buster-posey-457763), former catcher of the San Francisco Giants (2009-2019, 2021), has been used in examples of data visualization. A three-time World Series Champion, seven-time All-Star and five-time Silver Slugger, some of his statistics have been and will be used as part of a small sample of one of the greatest catchers of all time. 
 
@@ -35,7 +37,7 @@ A forked repository from Berns inspired the creation of this repo, which can be 
 
 <br>
 
-Potential Future Projects:
+<h2>Potential Future Projects:</h2>
 
 Predict the stats of players in 2020 season based on data from 2015-2019, had the 2020 season been a full 162-game season. 
 
@@ -43,10 +45,9 @@ Determining if higher OBP (not OPS) was result of the MVP finalists as they were
 
 Do defense and fielding matter in today's game when it comes to AL/NL MVP awards? 
 
-
 <br>
 
-<b>Resources:</b>
+<h2>Resources:</h2>
 <br>
 Any 2021 statistics in these files for the repository have come from [Baseball Reference](https://www.baseball-reference.com/).
 
