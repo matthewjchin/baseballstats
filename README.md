@@ -43,7 +43,7 @@ Predict the stats of players in 2020 season based on data from 2015-2019, had th
 
 Determining if higher OBP (not OPS) was result of the MVP finalists as they were
 
-Do defense and fielding matter in today's game when it comes to AL/NL MVP awards? 
+Do defense and fielding matter in today's game when it comes to AL/NL MVP awards?  
 
 <br>
 
