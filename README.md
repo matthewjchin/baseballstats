@@ -33,11 +33,13 @@ Inspired by the repository [Basics of Sabermetrics](https://github.com/rberns28/
 
 <br>
 
-A forked repository from Berns inspired the creation of this repo, which can be found [here](https://github.com/matthewjchin/Basics-of-Sabermetrics).
+A forked repository from Mr. Berns inspired the creation of this repo, which can be found [here](https://github.com/matthewjchin/Basics-of-Sabermetrics).
 
 <br>
 
 <h2>Potential Future Projects:</h2>
+
+Over time this repository will include data science-related projects that could be useful to analyze the progression of baseball statistics with Sabermetrics for years to come. 
 
 Predict the stats of players in 2020 season based on data from 2015-2019, had the 2020 season been a full 162-game season. 
 
