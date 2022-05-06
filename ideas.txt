@@ -11,6 +11,13 @@ The following are the ideas that can be added to this project:
 7. Find out if whether or not walks (BBs) were the key reason the MVP winners won.
 8. Does defense/fielding really even matter to MVP award and Fielding Bible Award winners?
 
+Topics to Add:
+Regression
+Machine learning
+ANOVA
+Time series Analysis
+
+
 
 
 
