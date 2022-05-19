@@ -15,7 +15,9 @@ Topics to Add:
 Regression
 Machine learning
 ANOVA
-Time series Analysis
+Time series Analysis - Batting average, ERA 
+
+Forecasting of future of BA, ERA, other stats.
 
 
 
