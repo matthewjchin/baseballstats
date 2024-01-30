@@ -21,7 +21,6 @@ Over the course of time, this repository will contain code regarding prediction 
 
 [Brandon Crawford](https://www.mlb.com/player/brandon-crawford-543063), shortstop of the San Francisco Giants, has been used as an example of the slugging statistics as well as data visualization that used in Sabermetrics, Gold Glove and All-Star selections as a two-time World Series Champion. Below is data showing his on-base plus slugging percentage in his current twelve-year career with the Giants:
 
-![Brandon Crawford On-base Plus Slugging (OPS), 2011-2021](BCrawLineGraphs/brcrawf_1121_ops.png)
 
 <br>
 
@@ -46,6 +45,13 @@ Predict the stats of players in 2020 season based on data from 2015-2019, had th
 Determining if higher OBP (not OPS) was result of the MVP finalists as they were
 
 Do defense and fielding matter in today's game when it comes to AL/NL MVP awards?  
+
+
+<br>
+
+1/30/24 update: 
+
+There may be answers to these questions above. Stay tuned. More models will be integrated and run, including statistics and other data up to the completion of the 2023 MLB season. 
 
 
 <br>
